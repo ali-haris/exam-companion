@@ -27,6 +27,16 @@ jobs:
         run: |
           rsync -av --exclude='.git' --exclude='.github' ./ space_repo/
 
+      - name: Debug token length
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          if [ -z "$HF_TOKEN" ]; then
+            echo "HF_TOKEN is EMPTY! Check GitHub repo secrets."
+          else
+            echo "✅ HF_TOKEN loaded. Length: ${#HF_TOKEN}"
+          fi
+
       - name: Commit and push changes to Hugging Face
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
