@@ -5,6 +5,7 @@ from datetime import timedelta
 import pandas as pd
 from io import BytesIO
 import re
+import os
 
 # PDF and document processing
 try:
