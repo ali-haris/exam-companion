@@ -408,7 +408,7 @@ def parse_time_to_24h(time_str):
 
 # ==================== MAIN STREAMLIT APP ====================
 def main():
-    st.title("📚 AI Exam Study Planner")
+    st.title("📚 Exam Companion")
     st.markdown("Generate an intelligent study schedule based on your course content, available time, and constraints.")
     
     # Sidebar for inputs
