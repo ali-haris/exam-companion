@@ -48,7 +48,7 @@ st.set_page_config(
 def get_openai_client():
     """Initialize OpenAI client with API key"""
     return OpenAI(
-        api_key="API HERE" #Insert you api here
+        api_key=os.getenv("OPENAI_API_KEY")
     )
 
 def call_gpt(prompt, model_name="gpt-4.1"):
