@@ -9,8 +9,8 @@ app_file: app.py
 pinned: false
 ---
 
-# PROJECT TITLE
-[Title + short tagline]
+# Exam Companion
+Exam Companion helps students beat stress by creating personalized study schedules that fit their daily routine and mood, boosting productivity and protecting mental health during exam season.
 
 ---
 
@@ -27,9 +27,7 @@ pinned: false
 - [Evaluation](#evaluation)
 - [Limitations](#limitations)
 - [Future Work](#future-work)
-- [Project Structure](#project-structure)
 - [How to Contribute](#how-to-contribute)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 - [Team](#team)
 - [Submission Track](#submission-track)
@@ -43,17 +41,33 @@ pinned: false
 ---
 
 ## About
-[what the project is and who it helps]
+**Exam Companion** is an AI-driven study planner designed to help students prepare efficiently for exams by creating **personalized study schedules**.  
+It assists learners in breaking down topics, managing time, and staying organized—reducing exam stress and boosting confidence.  
+
+This project supports the **Education for All** theme by making effective study planning accessible to anyone with internet access, regardless of background or resources.
+
 
 ---
 
 ## Problem
-[Describe the real-world problem you are solving. Keep short and concrete.]
+Many students struggle with:
+- Overwhelming amount of material to cover  
+- Poor time management before exams  
+- Stress from uncertainty about preparation progress  
+- Difficulty balancing study with personal schedules  
+
+Without a clear plan, students waste valuable time and lose focus.
 
 ---
 
 ## Solution
-[Summary of how the project solves the problem.]
+Exam Companion automates study planning:
+1. **Parses** course content from PDFs or pasted text.  
+2. **Calculates** available study time based on user’s exam date & busy hours.  
+3. **Generates** a customized daily schedule using AI.  
+4. **Exports** the schedule to PDF or Google Calendar for easy tracking.  
+
+The result is a realistic, stress-free study plan tailored to each student’s life.
 
 ---
 
@@ -102,30 +116,20 @@ pinned: false
 ---
 
 ## Future Work
-- [Planned improvements or roadmap items]
+- Add multi-language support for global accessibility.
+- Improve AI parsing for more complex PDFs.
+- Enable partial study plans (e.g., topic difficulty weighting).
+- Integrate with Google Calendar API for direct syncing.
+- Add a mobile-friendly layout.
 
 ---
-
-## Project Structure
-
-/ (root)
-├─ README.md
-├─ src/ or app/
-├─ requirements.txt or environment.yml
-├─ assets/ (screenshots)
-├─ docs/
-├─ Dockerfile
-└─ ...
 
 ## How to Contribute
-- [Short explanation of preferred workflow: branch → PR → review → merge]
-- [Any coding style, branch naming, commit message conventions]
-- [How to add screenshots/assets: put in `assets/` and reference in README]
-
----
-
-## License
-[Specify license type / link to LICENSE file]
+- Fork the repository
+- Create a new branch (feature/your-feature)
+- Commit changes with clear messages
+- Push and create a Pull Request
+- Add any new screenshots to /assets and link in README.
 
 ---
 
@@ -137,11 +141,13 @@ pinned: false
 ## Team
 - **Name 1** — Role (e.g., Backend, Model)  
 - **Name 2** — Role (e.g., Frontend, Deployment)  
-- **Your Name** — Role (Presentation / Documentation)  
+- **Iram Hameed** — Role (Presentation / Documentation)  
 
 ---
 ## Submission Track
+**Education for All**
 
+Tools that make learning more accessible & personalized.
 ---
 
 ## Contact
