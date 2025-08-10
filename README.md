@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-## About
+## About Exam Companion
 **Exam Companion** is an AI-driven study planner designed to help students prepare efficiently for exams by creating **personalized study schedules**.   It assists learners in breaking down topics, managing time, and staying organized—reducing exam stress and boosting confidence.  
 
 This project supports the **Education for All** theme by making effective study planning accessible to anyone with internet access, regardless of background or resources.
