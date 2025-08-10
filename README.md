@@ -89,9 +89,11 @@ The result is a realistic, stress-free study plan tailored to each student’s l
 ---
 
 ## Screenshots
-![screenshot1](assets/screenshot1.png)  
-![screenshot2](assets/screenshot2.png)  
-[Add short captions explaining each screenshot.]
+![Image](https://github.com/user-attachments/assets/bc33bc11-8aef-4cdf-945e-efa82fe84581)
+
+![Image](https://github.com/user-attachments/assets/f693d7c0-44da-4c87-8b4f-8b78b840238f)
+
+![Image](https://github.com/user-attachments/assets/d7f30af6-a629-4881-a5ca-09de6caec617)  
 
 ---
 
