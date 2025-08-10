@@ -45,8 +45,7 @@ The result is a realistic, stress-free study plan tailored to each student’s l
 
 ## Tech Stack
 **Frontend:** Streamlit  
-**Backend:** Python, OpenAI API   
-**Database:** [datasets, storage]  
+**Backend:** Python, OpenAI API    
 **Deployment / Hosting:** Hugging Face    
 **Other tools/libraries:** ClaudeAI, PyMuPDF, Pandas, DateTime, etc.
 
