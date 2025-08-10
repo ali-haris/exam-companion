@@ -145,9 +145,7 @@ The result is a realistic, stress-free study plan tailored to each student’s l
 
 ---
 ## Submission Track
-**Education for All**
-
-Tools that make learning more accessible & personalized.
+**Education for All** - Tools that make learning more accessible & personalized.
 ---
 
 ## Contact
