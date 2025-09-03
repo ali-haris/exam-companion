@@ -26,7 +26,7 @@
       <img alt="Hugging Face" src="https://img.shields.io/badge/Hosted_on-HF%20Spaces-FFD21E?logo=huggingface&logoColor=black" />
       <img alt="License" src="https://img.shields.io/badge/License-MIT-green" />
     </p>
-  </header>
+  </header>d
 
   <hr />
 
