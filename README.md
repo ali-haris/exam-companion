@@ -53,13 +53,13 @@ The result is a realistic, stress-free study plan tailored to each student’s l
 ## Usage
 - Set exam date, available study hours per day, busy hours (sleep, commute, etc.) and upload or enter course content.
 - Generate AI study plan.
-- Download study plan or export to Google Canlendar
+- Download study plan or export to Google Calendar
 
 ---
 
 ## Limitations
-- Rate limits on large PDFs
-- Limited options for customizing daily available hours
+- Rate limits on large PDFs.
+- Limited options for customizing daily available hours.
 
 ---
 
