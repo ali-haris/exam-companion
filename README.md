@@ -3,7 +3,7 @@
 **Exam Companion** is an AI-driven study planner designed to help students prepare efficiently for exams by creating **personalized study schedules**.   It assists learners in breaking down topics, managing time, and staying organized—reducing exam stress and boosting confidence.  
 
 This project supports the **Education for All** theme by making effective study planning accessible to anyone with internet access, regardless of background or resources.
-
+3rd Place – HackHub by SparkHub 2025: https://devpost.com/software/exam-companion
 ---
 
 ## Demo Link
