@@ -6,7 +6,7 @@ This project supports the **Education for All** theme by making effective study 
 
 ---
 
-## 3rd Place – HackHub by SparkHub 2025
+## 3rd Place – HackHub by SparkHub 2025 Hackathon 
 https://devpost.com/software/exam-companion
 
 ---
