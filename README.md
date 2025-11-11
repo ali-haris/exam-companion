@@ -6,10 +6,16 @@ This project supports the **Education for All** theme by making effective study 
 
 ---
 
+## 3rd Place – HackHub by SparkHub 2025
+https://devpost.com/software/exam-companion
+
+---
+
 ## Demo Link
 https://huggingface.co/spaces/marium-noor-khetran/exam-companion 
 
 ---
+
 
 ## Problem
 Many students struggle with:
